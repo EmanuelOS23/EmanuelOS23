@@ -21,3 +21,4 @@
 Passionate about technology, always willing to learn and pass on knowledge
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelOS23&layout=compact)
+
